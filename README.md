@@ -9,7 +9,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## How to download files?
--  Click on Code button and then click on Download ZIP OR Use git clone https://github.com/ContentUpgrad/intro_to_neural_networks.git command on your terminal if git is installed in your machine.
+-  Click on Code button and then click on Download ZIP OR Use git clone command on your terminal if git is installed in your machine.
 
 ## What is where?
 
